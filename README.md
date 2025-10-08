@@ -1,6 +1,6 @@
 A pinokio script for https://github.com/character-ai/Ovi.git
 
-Installs a custom fork: https://github.com/ai-anchorite/Ovi-Pinokio
+Installs a custom fork: https://github.com/ai-anchorite/Ovi.git
 
 <div align="center">
 <h1> Ovi: Twin Backbone Cross-Modal Fusion for Audio-Video Generation </h1>
