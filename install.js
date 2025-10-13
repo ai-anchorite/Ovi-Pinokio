@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone -b dev https://github.com/ai-anchorite/Ovi.git app",
+          "git clone https://github.com/ai-anchorite/Ovi.git app",
         ]
       }
     },
