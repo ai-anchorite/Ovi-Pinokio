@@ -32,7 +32,8 @@ module.exports = {
         message: [
           "uv pip install -r requirements.txt",
           "uv pip install hf_xet",
-          "uv pip install einops"
+          "uv pip install einops",
+          "uv pip install -U requests"
         ]
       }
     },
